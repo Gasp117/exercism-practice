@@ -1,0 +1,2 @@
+# rust-exercism
+Exercism practices
