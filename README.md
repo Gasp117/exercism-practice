@@ -1,2 +1,2 @@
 # rust-exercism
-Exercism practices
+Exercism practices so I improve my rust skills.
