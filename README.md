@@ -1,2 +1,4 @@
 # rust-exercism
-Exercism practices so I improve my rust skills.
+Practicing exercises from [Exercism](https://exercism.org/).
+Languages:
+* Rust.
